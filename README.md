@@ -1,7 +1,7 @@
 # challenge-week-2
 Bootcamp challenge week 2
 
-![My edit](/assets/images/2022-06-12-23-03-nguyendinhkhanhha296.github.io.png)
+![My edit](/02-Challenge/Assets/images/2022-06-23-02-39-nguyendinhkhanhha296.github.io.png)
 
 ## The Process
 
